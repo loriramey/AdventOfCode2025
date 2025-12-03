@@ -1,5 +1,5 @@
-# Advent of Code Day 1 Puzzle 1
-# https://adventofcode.com/2025/day/1
+# Advent of Code Day 1 Puzzle 2
+# https://adventofcode.com/2025/day/2
 # Code by Lori Ramey
 
 #--- Day 1: Secret Entrance---
